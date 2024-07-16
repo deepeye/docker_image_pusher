@@ -8,3 +8,5 @@ ubuntu/squid:latest
 semitechnologies/weaviate:1.19.0
 langgenius/qdrant:v1.7.3
 xprobe/xinference:v0.13.1
+justsong/one-api:latest
+searxng/searxng:latest

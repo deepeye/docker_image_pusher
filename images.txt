@@ -1,5 +1,9 @@
-bellsoft/liberica-openjdk-alpine:21-x86_64
-nginx
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+nginx:latest
+langgenius/dify-api:0.6.14
+langgenius/dify-web:0.6.14
+langgenius/dify-sandbox:0.2.4
+postgres:15-alpine
+redis:6-alpine
+ubuntu/squid:latest
+semitechnologies/weaviate:1.19.0
+langgenius/qdrant:v1.7.3

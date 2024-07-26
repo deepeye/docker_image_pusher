@@ -11,3 +11,4 @@ xprobe/xinference:v0.13.2
 justsong/one-api:latest
 searxng/searxng:latest
 docker.io/docker/dockerfile:1.4
+r8.im/cog-base:cuda12.1-python3.10

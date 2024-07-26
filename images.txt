@@ -10,3 +10,4 @@ langgenius/qdrant:v1.8.3
 xprobe/xinference:v0.13.2
 justsong/one-api:latest
 searxng/searxng:latest
+docker.io/docker/dockerfile:1.4

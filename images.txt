@@ -7,7 +7,7 @@ redis:6-alpine
 ubuntu/squid:latest
 semitechnologies/weaviate:1.19.0
 langgenius/qdrant:v1.8.3
-xprobe/xinference:v0.13.2
+xprobe/xinference:v0.14.0
 justsong/one-api:latest
 searxng/searxng:latest
 docker.io/docker/dockerfile:1.4

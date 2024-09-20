@@ -17,3 +17,4 @@ docker.elastic.co/elasticsearch/elasticsearch:8.12.1
 mysql:5.7.18
 quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
 redis:7.2.4
+docker.io/nvidia/cuda:11.8.0-cudnn8-runtime-centos7

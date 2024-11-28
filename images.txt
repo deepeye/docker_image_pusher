@@ -14,3 +14,11 @@ redis:7.2.4
 openjdk:8-jre
 docker.io/library/caddy:2-alpine
 docker.io/valkey/valkey:8-alpine
+infiniflow/ragflow:v0.14.0-slim
+infiniflow/ragflow:dev
+infiniflow/ragflow:v0.14.0
+docker.elastic.co/elasticsearch/elasticsearch:8.11.3
+infiniflow/infinity:v0.5.0-dev5
+mysql:8.0.39
+quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
+valkey/valkey:8

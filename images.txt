@@ -22,3 +22,6 @@ valkey/valkey:8
 node:16-alpine
 nginx:1.21-alpine
 dreamacro/clash:v1.18.0
+quay.io/coreos/etcd:v3.5.18
+minio/minio:RELEASE.2023-03-20T20-16-18Z
+milvusdb/milvus:v2.5.6

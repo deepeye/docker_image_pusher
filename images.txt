@@ -1,1 +1,1 @@
-zilliz/attu:v2.5
+nacos/nacos-server

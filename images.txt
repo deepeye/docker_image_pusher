@@ -1,2 +1,1 @@
-infiniflow/ragflow:nightly-slim
-infiniflow/ragflow:nightly
+obsidiandynamics/kafdrop

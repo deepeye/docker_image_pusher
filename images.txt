@@ -1,2 +1,3 @@
-langgenius/dify-plugin-daemon:0.1.1-local
+xprobe/xinference:nightly-main
+
 

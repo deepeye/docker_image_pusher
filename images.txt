@@ -1,3 +1,1 @@
-node:20-slim
-nginx:1.31.6-trixie
-node:24-bookworm-slim
+milvusdb/milvus:v3.0.2
